@@ -31,10 +31,10 @@ java CarShowroom
 Below are the images of the console output for this application:
 
 - Image 1: 
- ![Run Configuration](https://ibb.co/Byg5bQR.png) 
+ ![Run Configuration](https://ibb.co/Byg5bQR) 
 
 - Image 2: 
- ![Run Configuration](https://ibb.co/yNYfg7V.png) 
+ ![Run Configuration](https://ibb.co/yNYfg7V) 
  
 ## Example Usage
 - Select a Showroom: Choose one of the available showrooms in Chennai.
