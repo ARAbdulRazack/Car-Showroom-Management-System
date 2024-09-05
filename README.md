@@ -21,7 +21,7 @@ javac CarShowroom.java
 - Run the Program:
 java CarShowroom
 
-## Follow the Instructions:
+## Follow the Instructions
 - Choose a showroom.
 - Select a car from the showroom.
 - Enter your personal details and proof of identity.
