@@ -48,6 +48,3 @@ Below are the images of the console output for this application:
 - Database Integration: Store customer and car information in a database.
 - GUI Interface: Develop a graphical user interface for a more interactive experience.
 - Additional Payment Methods: Integrate with real payment gateways for more diverse payment options.
-
-## Contributor
-Abdul Razack AR
