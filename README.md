@@ -13,7 +13,7 @@ This is a simple Java console application that simulates a car showroom manageme
 
 ## How to Run the Program
 - Clone the Repository:
-git clone https://github.com/your-username/car-showroom-management.git
+git clone https://github.com/your-username/Car-Showroom-Management-System.git
 
 - Compile the Program:
 javac CarShowroom.java
